@@ -1,6 +1,6 @@
-# 🚀 Econverse - Teste Front-End Jr
+# 🚀 Econverse - Teste Front-End
 
-Este projeto foi desenvolvido como parte do processo seletivo para a vaga de **Desenvolvedor Front-End Jr** na Econverse. É uma vitrine de produtos moderna e responsiva, construída com React, TypeScript e Sass, seguindo as melhores práticas de desenvolvimento web.
+Este projeto foi desenvolvido como parte do processo seletivo para a vaga de **Desenvolvedor Front-End** na Econverse. É uma vitrine de produtos moderna e responsiva, construída com React, TypeScript e Sass, seguindo as melhores práticas de desenvolvimento web.
 
 ## 📋 Especificações Técnicas
 
